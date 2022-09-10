@@ -9,6 +9,7 @@ class Scratch {
         Collections.sort(reg);
 
         for (String no : reg) {
+
             System.out.println(no);
         }
     }
